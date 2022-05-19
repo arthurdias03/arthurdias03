@@ -1,6 +1,6 @@
 
 
-### Olá! Eu sou o Arthur Dias 👋
+### Olá! Eu sou o Arthur Dias ✨👋
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurdias03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
